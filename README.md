@@ -34,4 +34,4 @@ def root():
 
 ## 網址
 
-[請點我](https://elwingdiary.herokuapp.com/)
+[請點我](https://xxx2--chang0509.repl.co/)
