@@ -30,5 +30,4 @@ def category(c):
     t = (i, fsplit, mstr, article)
     result.append(t)
   return render_template("category.html", d = result)
-if __name__ == "__main__":
-  app.run(debug=True, port='3000', host='0.0.0.0')
+
